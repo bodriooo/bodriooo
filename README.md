@@ -1,3 +1,3 @@
-![GIF](https://media1.tenor.com/m/ZtxgyHN-R8cAAAAC/verify-sky.gif)
+![GIF]()
 <img src="https://tenor.com" alt="." />
 
