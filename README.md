@@ -10,3 +10,13 @@
 
 </a>
 </div>
+
+<div align="center">
+  <a href="https://github.com">
+
+@sharpfrostcherv
+@5W33TCH0C0L4T3
+@BetrayedNotes
+
+</a>
+</div>
